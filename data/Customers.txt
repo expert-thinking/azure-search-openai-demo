@@ -1,0 +1,2 @@
+{"CustomerName": "Lookers", "CompanyAlias":"largest car distributor in the UK", "Service": "Azure Landing Zones", "Description": "Entire Azure deployment for SPOF"}
+{"CustomerName": "RLAM", "CompanyAlias":"Financial Services company", "Service": "Azure Architecture Support", "Description": "Help with Data Platform"}

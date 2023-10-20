@@ -3,46 +3,46 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "environmentName": {
-      "value": "${AZURE_ENV_NAME}"
+      "value": "openai"
     },
     "resourceGroupName": {
-      "value": "${AZURE_RESOURCE_GROUP}"
+      "value": "ET-NPD-OpenAI"
     },
     "location": {
-      "value": "${AZURE_LOCATION}"
+      "value": "uksouth"
     },
     "principalId": {
       "value": "${AZURE_PRINCIPAL_ID}"
     },
     "openAiServiceName": {
-      "value": "${AZURE_OPENAI_SERVICE}"
+      "value": "et-npd-openai"
     },
     "openAiResourceGroupName": {
-      "value": "${AZURE_OPENAI_RESOURCE_GROUP}"
+      "value": "ET-NPD-OpenAI"
     },
     "openAiSkuName": {
       "value": "S0"
     },
     "formRecognizerServiceName": {
-      "value": "${AZURE_FORMRECOGNIZER_SERVICE}"
+      "value": "cog-fr-5twu7oes3tpbo"
     },
     "formRecognizerResourceGroupName": {
-      "value": "${AZURE_FORMRECOGNIZER_RESOURCE_GROUP}"
+      "value": "ET-NPD-OpenAI"
     },
     "formRecognizerSkuName": {
       "value": "S0"
     },
     "searchIndexName": {
-      "value": "${AZURE_SEARCH_INDEX=gptkbindex}"
+      "value": "expertthinking"
     },
     "searchServiceName": {
-      "value": "${AZURE_SEARCH_SERVICE}"
+      "value": "et-npd-cognitive-search"
     },
     "searchServiceResourceGroupName": {
-      "value": "${AZURE_SEARCH_SERVICE_RESOURCE_GROUP}"
+      "value": "ET-NPD-OpenAI"
     },
     "searchServiceLocation": {
-      "value": "${AZURE_SEARCH_SERVICE_LOCATION}"
+      "value": "uksouth"
     },
     "searchServiceSkuName": {
       "value": "${AZURE_SEARCH_SERVICE_SKU=standard}"
@@ -54,19 +54,19 @@
       "value": "${AZURE_SEARCH_QUERY_SPELLER=lexicon}"
     },
     "storageAccountName": {
-      "value": "${AZURE_STORAGE_ACCOUNT}"
+      "value": "etopenai"
     },
     "storageResourceGroupName": {
-      "value": "${AZURE_STORAGE_RESOURCE_GROUP}"
+      "value": "ET-NPD-OpenAI"
     },
     "storageSkuName": {
       "value": "${AZURE_STORAGE_SKU=Standard_LRS}"
     },
     "chatGptDeploymentName": {
-      "value": "${AZURE_OPENAI_CHATGPT_DEPLOYMENT=chat}"
+      "value": "et-gpt4"
     },
     "embeddingDeploymentName": {
-      "value": "${AZURE_OPENAI_EMB_DEPLOYMENT=embedding}"
+      "value": "et-embeddings-50k"
     },
     "openAiHost":{
       "value": "${OPENAI_HOST=azure}"

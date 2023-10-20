@@ -1,0 +1,3 @@
+{"Name": "Jake Bowles", "Role": "Data and AI Practice Lead", "Contact": "jake.bowles@expert-thinking.co.uk"}
+{"Name": "Alex Brightmore", "Role": "Head of Cloud", "Contact": "alex.brightmores@expert-thinking.co.uk"}
+{"Name": "James Whinn", "Role": "Head of Cloud Native and Kubernetes", "Contact": "james.whinn@expert-thinking.co.uk"}

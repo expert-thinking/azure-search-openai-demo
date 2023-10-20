@@ -1,0 +1,3 @@
+Expert Thinking specialise in Cloud, AI and Data but not data science. They have predefined landing zones that are configured in code and ready to deploy to all types of customers. 
+
+ET is an alias for Expert Thinking
